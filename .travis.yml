@@ -13,4 +13,3 @@ before_script:
 script:
 tests/hello_world.postman_collection.json -e 
 tests/tests.postman_environment.json
-
